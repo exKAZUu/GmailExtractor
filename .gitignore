@@ -1,5 +1,9 @@
+.settings
+.classpath
+.project
 target/
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.next
-release.properties
+src/test/xtend-gen
+src/main/xtend-gen
+
+client_secret.json
+result.csv
